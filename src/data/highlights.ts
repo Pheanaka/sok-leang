@@ -7,20 +7,20 @@
 export const hero = {
   greeting: 'Hello. The name is',
   /** Rendered on two lines. */
-  nameLines: ['Robin', 'Vale'],
+  nameLines: ['Sok', 'Leang'],
   intro:
-    'I art-direct and design for teams who already know what they are building, and need it to feel like one thing instead of forty.',
+    'I am a trainer, researcher, and consultant.',
   ctaLabel: 'Book a call',
   ctaHref: '/contact/',
   photo: {
-    src: '/images/hero-portrait.webp',
+    src: '/images/person.jpg',
     alt: 'Robin Vale, art director, photographed against a plain studio wall',
     width: 960,
     height: 1210,
   },
   aside: {
     roleLine: ['Independent of the Year 2026', 'Art Direction & Interface'],
-    title: ['Art', 'Direction'],
+    title: ['Indeprendent', 'Consultant'],
     /** Small avatar stack — decorative, so the images carry empty alt text. */
     stack: ['/images/avatar-02.webp', '/images/avatar-01.webp', '/images/avatar-03.webp'],
     stackBadge: '98%',
