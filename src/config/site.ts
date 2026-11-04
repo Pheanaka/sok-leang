@@ -31,8 +31,8 @@ export const siteConfig: SiteConfig = {
   themeColor: '#c8f14d',
 
   contact: {
-    email: 'hello@example.com',
-    phone: '+1 (000) 555-0100',
+    email: 'sokleangcjr@gmail.com',
+    phone: '+855 (0) 12 588-081',
     phoneHref: '+10005550100',
     location: 'Remote — working across nine time zones',
     availability: 'Two project slots open from September',
