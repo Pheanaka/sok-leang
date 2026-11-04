@@ -19,8 +19,8 @@ export const hero = {
     height: 1210,
   },
   aside: {
-    roleLine: ['Independent of the Year 2026', 'Art Direction & Interface'],
-    title: ['Indeprendent', 'Consultant'],
+    roleLine: ['Khmer-English Translator', 'Researcher'],
+    title: ['Independent', 'Consultant'],
     /** Small avatar stack — decorative, so the images carry empty alt text. */
     stack: ['/images/avatar-02.webp', '/images/avatar-01.webp', '/images/avatar-03.webp'],
     stackBadge: '98%',
