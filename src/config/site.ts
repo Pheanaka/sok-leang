@@ -20,9 +20,9 @@ export const siteConfig: SiteConfig = {
     footer: { src: '/images/footer-logo.webp', width: 164, height: 58 },
   },
 
-  author: 'Robin Vale',
-  role: 'Art direction & interface design',
-  title: 'SWP Freelancer Portfolio — Art direction & interface design',
+  author: 'Sok Leang',
+  role: 'Independent Counsultant',
+  title: 'Sok Leang — Freelancer',
   description:
     'Portfolio of Robin Vale, an independent art director and interface designer working with small product teams on identity, interface and design systems.',
   url: import.meta.env.SITE ?? 'https://swp-freelancer-portfolio.vercel.app',
